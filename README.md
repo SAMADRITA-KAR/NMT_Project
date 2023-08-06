@@ -76,5 +76,12 @@ After training, the model will be saved in a file named `HP.docx` in the project
 If you wish to contribute to this project, please feel free to open issues or submit pull requests. We welcome any improvements or bug fixes!
 
 ## Author
-This project is created and maintained by # Samadrita Kar
+
+[Samadrita Kar]
+
+- GitHub: [@Samadrita_Kar](https://github.com/SAMADRITA-KAR)
+
+If you find this project helpful or use it in your work, I'd appreciate a shoutout or a star ⭐️ on GitHub.
+
+Thank you for using and contributing to this project!
 
